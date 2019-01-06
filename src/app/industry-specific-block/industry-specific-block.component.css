@@ -1,0 +1,14 @@
+div {
+    background-color: darkgreen;
+    font-family: "Sans PT", serif;
+    color: #ffff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5%;
+  }
+  
+  p {
+    font-size: 20px;
+  }
+  
