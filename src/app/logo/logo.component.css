@@ -1,5 +1,10 @@
+#logo-container {
+  display: flex;
+}
+
 p {
   font-size: 20px;
-  background-color: #000080;
+  background-color: darkgreen;
   color: #ffffff;
+  padding-bottom: 5%;
 }
