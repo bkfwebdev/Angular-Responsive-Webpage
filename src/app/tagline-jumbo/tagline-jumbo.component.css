@@ -1,4 +1,14 @@
 div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+  background-color: darkgreen;
   width: 100%;
   height: 550px;
+}
+
+div img {
+  width: 60%;
+  height: 80%;
 }
