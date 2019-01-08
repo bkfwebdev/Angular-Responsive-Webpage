@@ -1,0 +1,15 @@
+#stats-container {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: rgb(219, 11, 11);
+  color: white;
+  font-size: 20px;
+}
+
+ul :first-child {
+  font-size: 45px;
+}
+
+ul {
+  list-style: none;
+}
