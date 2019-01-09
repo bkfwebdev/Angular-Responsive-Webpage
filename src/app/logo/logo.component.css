@@ -1,10 +1,17 @@
 #logo-container {
   display: flex;
+  background-color: rgb(219, 11, 11);
 }
 
 p {
   font-size: 20px;
-  background-color: darkgreen;
   color: #ffffff;
+  font-family: "Orbitron", sans-serif;
   padding-bottom: 5%;
+}
+
+img {
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 5px;
 }
